@@ -2,7 +2,6 @@
 CSS for xaringan slides in RU flavor
 Author: Joseph V. Casillas
 Updated: 03/06/2018
-Logo change: UoM F Espinoza
 */
 
 /* Package defaults that we slightly tweak */
@@ -115,7 +114,7 @@ thead, tfoot, tr:nth-child(even) { background: none; }
 
 /* Add image and change bg color */
 .title-slide {
-  background-image: url(https://assets.manchester.ac.uk/logos/hi-res/TAB_UNI_MAIN_logo/White_backgrounds/TAB_col_white_background.png);
+  background-image: url(https://github.com/jvcasillas/ru_xaringan/raw/master/img/logo/ru_shield.png);
   background-position: 9% 15%;
   background-size: 55px;
   background-color: #fff;
